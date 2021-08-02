@@ -1,1 +1,0 @@
-{"version":3,"sources":["re_frame_tailwind_starter/db.cljs"],"mappings":";AAEA,0CAAA,1CAAKA","names":["re-frame-tailwind-starter.db/default-db"],"sourcesContent":["(ns re-frame-tailwind-starter.db)\n\n(def default-db\n  {})"]}
